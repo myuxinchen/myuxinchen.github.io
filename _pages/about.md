@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My name is Taylor, and I was born in 1989!"
 author_profile: true
 redirect_from: 
   - /about/
