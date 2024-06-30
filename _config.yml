@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
-  name             : "   ᶘ ᵒᴥᵒᶅ  "
+  avatar           : "profile.png"
+  name             : "陈小玉"
   pronouns         : # example: "she/her"  
   bio              : "ITZY!"
   location         : "SYL's heart"
